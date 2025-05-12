@@ -78,3 +78,8 @@ A modern web application for discovering and saving recipes using the Edamam API
 4. Push to the branch
 5. Create a new Pull Request
 
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
